@@ -24,4 +24,16 @@ Este repositório contém a atividade prática realizada no bootcamp da DIO, ond
 
 ## 📁 Estrutura do Repositório
 
+azure-vm-bootcamp/ ├── imagens/ │ └── azure-vm.jpg ├── README.md
+
+---
+
+## 🧠 Observações
+
+- A VM foi criada com configurações mínimas, ideal para fins de estudo e prática.
+- O acesso via SSH foi configurado para garantir maior segurança.
+- Nenhum backup foi habilitado para esta máquina.
+
+✅ Atividade concluída com sucesso!
+
 
